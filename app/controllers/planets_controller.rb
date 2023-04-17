@@ -7,4 +7,5 @@ class PlanetsController < ApplicationController
 
     render json: planets
   end
+
 end
